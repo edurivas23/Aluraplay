@@ -19,6 +19,3 @@ Este proyecto es una implementación de la plataforma Alura Play, diseñada para
 * **Sección de videos:** La sección de videos muestra una lista de videos con información relevante.
 * **Pie de página:** El pie de página contiene información de contacto y derechos de autor.
 
-## Recursos adicionales
-
-* [Curso de CSS: Flexbox y Layouts Responsivos de Alura Latam](https://www.aluracursos.com/curso-online-css-flexbox-y-layouts-responsivos)
