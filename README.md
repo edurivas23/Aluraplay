@@ -19,7 +19,7 @@ Este proyecto es un simulador de Alura Play que utiliza JSON Server para simular
 
 ## Instalación
 
-1. Clonar el repositorio: `git clone [URL del repositorio]`
+1. Clonar el repositorio: `git clone https://github.com/edurivas23/Aluraplay.git`
 2. Instalar las dependencias: `npm install`
 3. Iniciar JSON Server: `json-server --watch db.json --port 3001`
 
